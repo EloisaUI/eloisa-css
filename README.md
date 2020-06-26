@@ -1,2 +1,3 @@
-# eloisa-css
-Eloisa CSS
+## Eloisa CSS
+
+Create clean & clear user-interfaces with Eloisa.
